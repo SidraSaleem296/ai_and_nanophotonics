@@ -1,5 +1,3 @@
-[situ backpropagation for deep learning in nanophotonic.pdf](https://github.com/SidraSaleem296/ai_and_nanophotonics/files/12443556/situ.backpropagation.for.deep.learning.in.nanophotonic.pdf)# ai_and_nanophotonics
-
 # AI-Nanophotonics Fusion 🌟
 
 Welcome to the AI-Nanophotonics Fusion repository! Here, we dive deep into the exciting intersection of Artificial Intelligence (AI) and Nanophotonics, exploring topics like Situ Backpropagation in Deep Learning for Nanophotonic Neural Networks and the reciprocal influence between these two groundbreaking domains.
@@ -10,7 +8,7 @@ AI and Nanophotonics are two transformative fields that hold immense potential i
 
 ## 🌌 Key Focus Areas
 
-- **Situ Backpropagation in Deep Learning for Nanophotonic Neural Networks**: Delve into the innovative technique of Situ Backpropagation, tailored for training nanophotonic neural networks. Explore the implications of adapting AI methods for this cutting-edge domain.
+- **in Situ Backpropagation in Deep Learning for Nanophotonic Neural Networks**: Delve into the innovative technique of Situ Backpropagation, tailored for training nanophotonic neural networks. Explore the implications of adapting AI methods for this cutting-edge domain.
 
 - **AI-Driven Nanophotonic Design**: Discover how AI-powered optimization can revolutionize the design and performance of nanophotonic devices, leading to more efficient and versatile photonic systems.
 
